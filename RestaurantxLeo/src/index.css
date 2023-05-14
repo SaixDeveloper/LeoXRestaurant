@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Alkatra', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #F6F1E9;
+}
+
